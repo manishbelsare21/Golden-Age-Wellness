@@ -7,16 +7,16 @@ Our health app for elderly individuals focuses on nutrition and yoga. It provide
 To run the project: 
 
 Clone the repository 
-
+open terminal and run following command:- 
 git clone https://github.com/manishbelsare21/Health-master.git
 
+change directory:-
+cd Health-master
 
-Install the dependencies
-
+Install the dependencies:-
 npm install
 
-Run the app
-
+Run the app:-
 npx expo start
 
 
