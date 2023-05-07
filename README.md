@@ -6,10 +6,9 @@ Our health app for elderly individuals focuses on nutrition and yoga. It provide
 
 To run the project: 
 
-Clone the repository
+Clone the repository 
 
-bash
-  git clone https://github.com/manishbelsare21/Health-master.git
+git clone https://github.com/manishbelsare21/Health-master.git
 
 
 Install the dependencies
