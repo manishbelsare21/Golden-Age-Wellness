@@ -17,7 +17,7 @@ Install the dependencies:-
 npm install
 
 Run the app:-
-npx expo start
+npx expo start --android
 
 
 Then, install Expo Go on mobile device. Scan the QR displayed on the console.
