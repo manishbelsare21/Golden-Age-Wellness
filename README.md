@@ -19,3 +19,9 @@ npm install
 Run the app
 
 npx expo start
+
+
+Then, install Expo Go on mobile device. Scan the QR displayed on the console.
+
+
+For more info [visit](https://docs.expo.dev/tutorial/create-your-first-app/)
