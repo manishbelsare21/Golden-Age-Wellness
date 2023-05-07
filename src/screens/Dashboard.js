@@ -18,7 +18,7 @@ const Problems = ({ navigation }) => {
     <SafeAreaView>
     <View>
       <View>
-        <Text style={styles.mainText}> -- Select your appropriate --</Text>
+        <Text style={styles.mainText}> -- Choice of betterment --</Text>
         <View >
           <Pressable style={[styles.input, { backgroundColor: "#FDEFB2" }]} onPress={() => navigation.navigate('foodoryoga', { problem: "immunity" })}>
             <View style={{ flexDirection: "row", justifyContent: 'space-between', }}>
