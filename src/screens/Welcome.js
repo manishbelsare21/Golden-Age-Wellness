@@ -27,10 +27,9 @@ const Welcome = ({ navigation }) => {
                 <View>
                     <Text style={styles.header}>Welcome</Text>
                     <Text style={{ color: 'white', fontSize: 20, textAlign:'center', fontStyle:'italic' }}>
-                        Age is no barrier. It's a limitation you put on your mind."
+                        Beautiful young people are accidents of nature, but Beautiful old people are works of art
                     </Text>
-                    <Text style={{ textAlign: 'right', color: 'white' }}>- Jackie Joyner-Kersee</Text>
-
+                   
                 </View>
 
                 <KeyboardAvoidingView
